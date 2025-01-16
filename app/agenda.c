@@ -5,6 +5,9 @@
 #define MAX_TASK_LENGTH 100
 #define FILENAME "agenda.txt"
 
+//TODO: make a GUI for this app.
+//      add some way of appointing the best possible day for an appointment.
+
 // Function to display menu
 void displayMenu() {
     printf("\nAgenda Menu:\n");
